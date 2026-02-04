@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>locassets</name>
+  <key>locassets</key>
+  <state>stable</state>
+  <logo></logo>
+
+  <description>
+    Adds an additional asset selector filtered by ticket location without replacing native GLPI UI.
+  </description>
+
+  <homepage>https://github.com/InformaticaRomar/locassets</homepage>
+  <license>MIT</license>
+
+  <authors>
+    <author>InformaticaRomar</author>
+  </authors>
+
+  <versions>
+    <version>
+      <num>0.1.0</num>
+      <compatibility>^11.0</compatibility>
+      <download_url>
+        https://github.com/InformaticaRomar/locassets/archive/refs/tags/v0.1.0.tar.gz
+      </download_url>
+    </version>
+  </versions>
+</plugin>
