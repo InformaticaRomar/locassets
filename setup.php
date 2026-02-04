@@ -24,7 +24,7 @@ function plugin_version_locassets(): array {
       'author'       => 'dso',
       'license'      => 'MIT',
       'version'      => PLUGIN_LOCASSETS_VERSION,
-      'homepage'     => '',
+      'homepage'     => 'https://github.com/InformaticaRomar/locassets',
       'requirements' => [
          'glpi' => [
             'min' => PLUGIN_LOCASSETS_MIN_GLPI_VERSION,
