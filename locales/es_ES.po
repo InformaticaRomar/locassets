@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: locassets\n"
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "My assets (by location)"
+msgstr "Mis activos (por ubicación)"
